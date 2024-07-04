@@ -3,3 +3,5 @@
 ## Formerly Web Developer
 
 ## Scuba Diver
+
+## Fan of home automation technologies 

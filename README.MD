@@ -9,7 +9,7 @@ Currently, I'm running a machine learning project mainly focused on time-series 
 *
 
 ### Developed Machine learning models:
-* PV predictor Sun Elevation angle Photovoltaic forecaster [SEPF]()
+* PV predictor Sun Elevation angle Photovoltaic Forecaster [SEPF]()
 * whether classifier Photovoltaic based Coudiness Weather Classifier [PCWC]()
 
 

@@ -1,5 +1,5 @@
 ## PhD Student at Wrocław University of Science and Technology
-Currently, I'm running a machine learning project mainly focused on predicting and optimizing renewable energy sources. The project has the following goals:
+Currently, I'm running a machine learning project mainly focused on time-series processing. It is about predicting and optimizing renewable energy sources. The project has the following goals:
 * to develop machine learning models that can predict future power generation (time-series prediction);
 * to develop control/optimization algorithms for home battery storage systems that cooperate next to RES sources. 
 

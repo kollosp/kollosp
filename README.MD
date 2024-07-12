@@ -13,7 +13,7 @@ Currently, I'm running a machine learning project mainly focused on time-series 
 * whether classifier Photovoltaic based Coudiness Weather Classifier [PCWC]()
 
 
-## Formerly Web Developer
+## Formerly Full-Stack Web Developer
 During my first and second degrees, I worked as a freelancer. I used the following web technologies:
 * Node.js 
 * Vue.js

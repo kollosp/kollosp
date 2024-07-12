@@ -26,3 +26,6 @@ Look at one of my works [Na fali](https://nafali-sport.pl/)
 * Beckhoff programmer. One of my Beckhoff projects.
 * Arduino
 * RaspberryPi
+
+## More
+*  [Kaggle profile](https://www.kaggle.com/kollosp) 

@@ -7,6 +7,7 @@ During my first and second degrees, I worked as a freelancer. I used the followi
 * Node.js 
 * Vue.js
 * Apache server
+
 Look at one of my works [Na fali](https://nafali-sport.pl/)
 
 ## Fan of home automation technologies 

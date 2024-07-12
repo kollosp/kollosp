@@ -1,5 +1,14 @@
 ## PhD Student at Wrocław University of Science and Technology
+Currently, I am involved in a machine learning project mainly focused on predicting and optimizing renewable energy sources. It is to 
 
+
+### Recent finished research in this area:
+* 
+*
+
+### Developed Machine learning models:
+* PV predictor Sun Elevation angle Photovoltaic forecaster [SEPF]()
+* whether classifier Photovoltaic based Coudiness Weather Classifier [PCWC]()
 
 
 ## Formerly Web Developer

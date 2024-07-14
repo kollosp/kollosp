@@ -24,3 +24,4 @@ Look at one of my works [Na fali](https://nafali-sport.pl/)
 
 ## More
 *  [Kaggle profile](https://www.kaggle.com/kollosp) 
+*  [LinkedIn profile](https://www.linkedin.com/in/pawe%C5%82-parczyk-5049132b3/) 

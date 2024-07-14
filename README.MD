@@ -5,8 +5,6 @@ Currently, I'm running a machine learning project mainly focused on time-series 
 
 
 ### Recently finished research in this area:
-* 
-*
 
 ### Developed Machine learning models:
 * PV power prediction model: Sun Elevation angle Photovoltaic Forecaster [SEPF]()

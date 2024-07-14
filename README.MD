@@ -3,12 +3,9 @@ Currently, I'm running a machine learning project mainly focused on time-series 
 * to develop machine learning models that can predict future power generation (time-series prediction);
 * to develop control/optimization algorithms for home battery storage systems that cooperate next to RES sources. 
 
-
-### Recently finished research in this area:
-
 ### Developed Machine learning models:
-* PV power prediction model: Sun Elevation angle Photovoltaic Forecaster [SEPF]()
-* Whether classifier on pv power trajectory data: Photovoltaic based Coudiness Weather Classifier [PCWC]()
+* PV power prediction model: Sun Elevation angle Photovoltaic Forecaster SEPF.
+* Whether classifier on pv power trajectory data: Photovoltaic based Coudiness Weather Classifier PCWC.
 
 
 ## Formerly Full-Stack Web Developer

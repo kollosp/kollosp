@@ -12,13 +12,15 @@ Currently, I'm running a machine learning project mainly focused on time-series 
 * PV power prediction model: Sun Elevation angle Photovoltaic Forecaster SEPF.
 * Whether classifier on pv power trajectory data: Photovoltaic based Coudiness Weather Classifier PCWC.
 
-## Formerly Full-Stack Web Developer
+## Full-Stack Web Developer
 During my first and second degrees, I worked as a freelancer. I used the following web technologies:
 * Node.js 
 * Vue.js
 * Apache server
 
-Look at one of my works [Na fali](https://nafali-sport.pl/)
+
+
+Look at one of my works [Na fali](https://nafali-sport.pl/), [Elmeco Technologie](https://elmecotechnologie.pl/)
 
 ## Fan of home automation technologies 
 

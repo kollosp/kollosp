@@ -13,12 +13,10 @@ Currently, I'm running a machine learning project mainly focused on time-series 
 * Whether classifier on pv power trajectory data: Photovoltaic based Coudiness Weather Classifier PCWC.
 
 ## Full-Stack Web Developer
-During my first and second degrees, I worked as a freelancer. I used the following web technologies:
-* Node.js 
-* Vue.js
-* Apache server
-
-
+I worked as a freelancer. I used the following web technologies:
+* Node.js, Express, Sequelize,
+* Vue.js, JavaScript, Bulma, Sass, CSS, HTML, WebSocket, AJAX, 
+* Apache server, PhpMyAdmin, MariaDB, PostgreSQL, 
 
 Look at one of my works [Na fali](https://nafali-sport.pl/), [Elmeco Technologie](https://elmecotechnologie.pl/)
 

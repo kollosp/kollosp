@@ -1,4 +1,5 @@
 # Work 
+Achievements during work.
 
 ## PhD Student at Wrocław University of Science and Technology
 Currently, I'm running a machine learning project mainly focused on time-series processing. It is about predicting and optimizing renewable energy sources. The project has the following goals:
@@ -23,11 +24,17 @@ I worked as a freelancer. I used the following web technologies:
 Look at one of my works [Na fali](https://nafali-sport.pl/), [Elmeco Technologie](https://elmecotechnologie.pl/)
 
 # Studies
+Achievements during studies.
 
 ## Machine learning projects
-My outstanding project
+Machine learning projects that I participated in or led them.
+* Licence plate recognition - made from scratch object detection and OCR algorithms (Python, Sk-learn) [link](https://github.com/kollosp/LicencePlateRecognition),
 
-* Licence plate recognition - made from scratch object detection and OCR algorithms [link](https://github.com/kollosp/LicencePlateRecognition),
+## Other projects
+Any programming projects in which I participated in or led them.
+* Multiple Traveling Salesman Problem - an application with GUI that solves the mTSP Problem (QT, C++) [link](https://github.com/kollosp/mTSP),
+* Electric Circuit Simulator - Simulator application that simulates the behavior of logic/electrical circuits based on logic gates (JAVA, Swing) [link](https://github.com/kollosp/circuit-simulator),
+
 
 # Hobbies
 

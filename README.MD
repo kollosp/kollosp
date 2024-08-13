@@ -27,7 +27,7 @@ Look at one of my works [Na fali](https://nafali-sport.pl/), [Elmeco Technologie
 ## Machine learning projects
 My outstanding project
 
-* Licence plate recognition - made from scratch object detection and OCR algorithms [link](https://github.com/kollosp/LicencePlateRedognition),
+* Licence plate recognition - made from scratch object detection and OCR algorithms [link](https://github.com/kollosp/LicencePlateRecognition),
 
 # Hobbies
 

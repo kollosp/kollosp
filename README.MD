@@ -29,6 +29,7 @@ Achievements during studies.
 ## Machine learning projects
 Machine learning projects that I participated in or led them.
 * Licence plate recognition - made from scratch object detection and OCR algorithms (Python, Sk-learn) [link](https://github.com/kollosp/LicencePlateRecognition),
+* Master thesis experimental stuff - (Python, Sk-learn, Matplotlib) [link](https://github.com/kollosp/MasterThesis),
 
 ## Other projects
 Any programming projects in which I participated in or led them.

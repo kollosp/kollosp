@@ -1,3 +1,5 @@
+# Work 
+
 ## PhD Student at Wrocław University of Science and Technology
 Currently, I'm running a machine learning project mainly focused on time-series processing. It is about predicting and optimizing renewable energy sources. The project has the following goals:
 * to develop machine learning models that can predict future power generation (time-series prediction);
@@ -20,12 +22,21 @@ I worked as a freelancer. I used the following web technologies:
 
 Look at one of my works [Na fali](https://nafali-sport.pl/), [Elmeco Technologie](https://elmecotechnologie.pl/)
 
+# Studies
+
+## Machine learning projects
+My outstanding project
+
+* Licence plate recognition - made from scratch object detection and OCR algorithms [link](https://github.com/kollosp/LicencePlateRedognition),
+
+# Hobbies
+
 ## Fan of home automation technologies 
 
 * Beckhoff programmer. One of my Beckhoff projects.
 * Arduino
 * RaspberryPi
 
-## More
+# More
 *  [Kaggle profile](https://www.kaggle.com/kollosp) 
 *  [LinkedIn profile](https://www.linkedin.com/in/pawe%C5%82-parczyk-5049132b3/) 

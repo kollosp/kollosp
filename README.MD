@@ -28,7 +28,6 @@ Look at one of my works [Na fali](https://nafali-sport.pl/), [Elmeco Technologie
 * powtranpolska.pl [link](https://github.com/kollosp/powtranpolska.pl)
 
 # Studies
-Achievements during studies.
 
 ## Machine learning projects
 Machine learning projects that I participated in or led them.

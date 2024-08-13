@@ -36,6 +36,7 @@ Any programming projects in which I participated in or led them.
 * Electric Circuit Simulator - Simulator application that simulates the behavior of logic/electrical circuits based on logic gates (JAVA, Swing) [link](https://github.com/kollosp/circuit-simulator),
 * WebSocket web chat - terminal application (Node.js, Websocket) [link](https://github.com/kollosp/WebsocketChat)
 * GUI [Modbus](https://en.wikipedia.org/wiki/Modbus) master and slave applications (Node.js, Express.js, Vue.js, Bulma, Websocket) [link](https://github.com/kollosp/ModbusConsole)
+* Serial Port Scanner - listens and print data that arriving to the specified serial port (Node.js) [link](https://github.com/kollosp/CommunicationPortScanner)
 # Hobbies
 
 ## Fan of home automation technologies 

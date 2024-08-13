@@ -35,7 +35,7 @@ Any programming projects in which I participated in or led them.
 * Multiple Traveling Salesman Problem - an application with GUI that solves the mTSP Problem (QT, C++) [link](https://github.com/kollosp/mTSP),
 * Electric Circuit Simulator - Simulator application that simulates the behavior of logic/electrical circuits based on logic gates (JAVA, Swing) [link](https://github.com/kollosp/circuit-simulator),
 * WebSocket web chat - terminal application (Node.js, Websocket) [link](https://github.com/kollosp/WebsocketChat)
-
+* GUI [Modbus](https://en.wikipedia.org/wiki/Modbus) master and slave applications (Node.js, Express.js, Bulma, Websocket) [link](https://github.com/kollosp/ModbusConsole)
 # Hobbies
 
 ## Fan of home automation technologies 

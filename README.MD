@@ -7,9 +7,9 @@ Currently, I'm running a machine learning project mainly focused on time-series 
 * to develop control/optimization algorithms for home battery storage systems that cooperate next to RES sources. 
 
 ### Recent research outcomes:
-* Optimisation of Energy Storage Systems for Purpose to Reduce Energy Cost [link](https://github.com/kollosp/BESSOptimisation/blob/main/Optimisation_of_Energy_Storage_Systems_for_Purpose_to_Reduce_Energy__Cost.pdf),
-* Transition Into Solar Elevation Angle Domain for Photovoltaic Power GenerationForecasting [link](https://github.com/kollosp/SunElevationAnglePhotovoltaicForecaster/blob/main/Transition_Into_Solar_Elevation_Angle_Domain_for_Photovoltaic_Power_Generation_Forecasting.pdf),
-* On the classification of weather based on the production of photovoltaic installations [link](https://github.com/kollosp/PhotovoltaicBasedCoudinessWeatherClassifier/blob/main/Photovoltaic%20based%20Coudiness%20Weather%20Classifier.pdf)
+* Optimisation of Energy Storage Systems for Purpose to Reduce Energy Cost [link](https://github.com/kollosp/BESSOptimisation),
+* Transition Into Solar Elevation Angle Domain for Photovoltaic Power GenerationForecasting [link](https://github.com/kollosp/SunElevationAnglePhotovoltaicForecaster),
+* On the classification of weather based on the production of photovoltaic installations [link](https://github.com/kollosp/PhotovoltaicBasedCoudinessWeatherClassifier)
 
 ### Developed Machine learning models:
 * PV power prediction model: Sun Elevation angle Photovoltaic Forecaster SEPF [link](https://www.kaggle.com/models/kollosp/seapf)

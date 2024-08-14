@@ -12,7 +12,7 @@ Currently, I'm running a machine learning project mainly focused on time-series 
 * On the classification of weather based on the production of photovoltaic installations [link](https://github.com/kollosp/PhotovoltaicBasedCoudinessWeatherClassifier/blob/main/Photovoltaic%20based%20Coudiness%20Weather%20Classifier.pdf)
 
 ### Developed Machine learning models:
-* PV power prediction model: Sun Elevation angle Photovoltaic Forecaster SEPF.
+* PV power prediction model: Sun Elevation angle Photovoltaic Forecaster SEPF [link](https://www.kaggle.com/models/kollosp/seapf)
 * Whether classifier on pv power trajectory data: Photovoltaic based Coudiness Weather Classifier PCWC.
 
 ## Full-Stack Web Developer

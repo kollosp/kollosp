@@ -1,5 +1,6 @@
-# Work 
-Achievements during work.
+# About me 
+My name is Paweł Parczyk. I graduated in computer science from the Wrocław University of Science and Technology, where I am currently a PhD student. During my PhD, I am developing machine learning models/algorithms for forecasting energy supply in photovoltaic installations. The work covers many areas, including data analysis and visualization, regression, model creation, and evaluation. In my free time I play with other stuff such as Beckhoff, Arduino or Raspberry.
+
 
 ## PhD Student at Wrocław University of Science and Technology
 Currently, I'm running a machine learning project mainly focused on time-series processing. It is about predicting and optimizing renewable energy sources. The project has the following goals:
